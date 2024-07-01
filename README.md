@@ -2,6 +2,7 @@
   Welcome to tltommu's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
 # Quick intro
  👋 Hi, I’m @tltommu
 - I am currently on self-learning path and aspire to be a software engineer.
