@@ -6,6 +6,10 @@
 
 # 📊GitHub Stats :
 [![tltommu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tltommu)](https://github.com/tltommu/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tltommu&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tltommu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tltommu&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
