@@ -16,7 +16,7 @@
 
 # Quick intro
   Hi, I’m tltommu
-- I am currently on self-learning path and aspire to be a software engineer.
+- I am currently on a self-learning path with aspirations of becoming a software engineer.
 - I have stumbled upon a several areas of software engineer, ranging from web developer to data analyst.
 
 # Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
