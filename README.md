@@ -15,7 +15,7 @@
 ```                             
 
 # Quick intro
-  Hi, I’m @tltommu
+  Hi, I’m tltommu
 - I am currently on self-learning path and aspire to be a software engineer.
 - I have stumbled upon a several areas of software engineer, ranging from web developer to data analyst.
 
