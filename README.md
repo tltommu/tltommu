@@ -6,30 +6,13 @@
               \ V  V /  __/ | (_| (_) | | | | | |  __/ | || (_) | | |_| | || (_) | | | | | | | | | | | |_| | \__ \
                \_/\_/ \___|_|\___\___/|_| |_| |_|\___|_ \__\___/   \__|_|\__\___/|_|_|_| |_|_| |_|_|_|\__,_| |___/
 
-                                  ____ _ _  _          _                                                  _                      
-    |                           / ___(_) |_| |__  _   _| |__ ( )  ___   _ __  _ __ ___  / _(_) | ___  | |                     
-    |                          | |  _| | __| '_ \| | | | '_ \    / __| | '_ \| '__/ _ \| |_| | |/ _ \ | |                   
-   |                           | |_| | | |_| | | | |_| | |_) |   \__ \ | |_) | | | (_) |  _| | |  __/ |_|                  
-     |                          \____|_|\__|_| |_|\__,_|_.__/    |___/ | .__/|_|  \___/|_| |_|_|\___| (_) 
-|                                                                      |_|                                                  
-                                                  
-```
-
-                                                                                                        
-
-                                                                                                
-  ____ _ _   _           _     
- / ___(_) |_| |__  _   _| |__  
-| |  _| | __| '_ \| | | | '_ \ 
-| |_| | | |_| | | | |_| | |_) |
- \____|_|\__|_| |_|\__,_|_.__/
-
-   ____ _ _   _           _     
-  / ___(_) |_| |__  _   _| |__  
- | |  _| | __| '_ \| | | | '_ \ 
- | |_| | | |_| | | | |_| | |_) |
-  \____|_|\__|_| |_|\__,_|_.__/ 
-                                
+                             ____ _ _  _           _                                              _                      
+                           / ___(_) |_| |__  _   _| |__ ( )  ___   _ __  _ __ ___  / _(_) | ___  | |                     
+                          | |  _| | __| '_ \| | | | '_ \    / __| | '_ \| '__/ _ \| |_| | |/ _ \ | |                   
+                          | |_| | | |_| | | | |_| | |_) |   \__ \ | |_) | | | (_) |  _| | |  __/ |_|                  
+                           \____|_|\__|_| |_|\__,_|_.__/    |___/ | .__/|_|  \___/|_| |_|_|\___| (_) 
+                                                                  |_|                                                                                 
+```                             
 
 # Quick intro
   Hi, I’m @tltommu
@@ -73,10 +56,10 @@
 ##  App development stack
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-#  Design
+##  Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 
-# Documenting:
+## Documenting:
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 	![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 # GitHub Stats (This updates every 4 hours) :
