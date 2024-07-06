@@ -63,7 +63,7 @@
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 	![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 # GitHub Stats (This updates every 4 hours) :
-[![tltommu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tltommu)](https://github.com/tltommu/github-readme-stats)
+![tltommu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tltommu&show_icons=true&theme=transparent)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tltommu&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tltommu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
