@@ -18,6 +18,48 @@
   Hi, I’m tltommu
 - I am currently on a self-learning path with aspirations of becoming a software engineer.
 - I have stumbled upon a several areas of software engineer, ranging from web developer to data analyst.
+- I am now Microsoft Certified as an [Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/tommylam-7630/credentials/3665946c5028ef01)
+
+# Repo Guide (Sadly there isn't any file system to group my repos)
+A quick and simple grouping of my repos for easier scan through 
+
+## Web Projects
+
+| Project Name   | Repo | Site |
+| --------| ------- | ------- |
+|**Refine_Dashboard** | **[Link](https://github.com/tltommu/refine_Dashboard)** | [Link](https://refine-dashboard-drab.vercel.app)
+|**Another-3Dfolio(My current portfolio that I update from time to time)**| [Link](https://github.com/tltommu/Another-3Dfolio) | [Link](https://another-3-dfolio.vercel.app/)
+|**Personal-Web (My first ever website)**| [Link](https://github.com/tltommu/Personal-web) | [Link](https://thankful-bay-095d2a003.3.azurestaticapps.net)
+|**my-website (a docusaurus web generator)**| [Link](https://github.com/tltommu/my-website) | [Link](my-website-eight-rho.vercel.app)
+|**CraftCMSTest**| [Link](https://github.com/tltommu/CraftCMSTest) | [Link](https://craft-cms-test.vercel.app/)
+|**CRUD-App**| [Link](https://github.com/tltommu/CRUD-App) |[Link](https://yellow-sky-094200410.4.azurestaticapps.net/)
+
+## C#/ Backend Projects
+
+| Project Name   | Repo | Site |
+| --------| ------- | ------- |
+|**Demo** | [Link](https://github.com/tltommu/Demo)| N/A 
+|**FruitAPI** |[Link](https://github.com/tltommu/FruitAPI) | [Link](https://fruitapi2.azurewebsites.net/swagger) 
+|**BubberBreakfast** (freecodecamp lesson for me to learn basic of C# and HTTP requests) |[Link](https://github.com/tltommu/BubberBreakfast) | N/A
+
+## Machine Learning Projects & Kaggle Competitions
+| Project Name   | Repo | Site |
+| --------| ------- | ------- |
+|**Kaggle Competition: NeurIPS - Ariel Data Challenge 2024** | [Link](https://github.com/tltommu/NeurIPS)| [Link](https://www.kaggle.com/competitions/ariel-data-challenge-2024)
+|**Deep Learning Course**| [Link](https://github.com/tltommu/Deep-learning-course) | N/A
+|**Kaggle Competition: Stanford Ribonanza RNA Folding**| [Link](https://github.com/tltommu/RNA-Starter) | [Link](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding)
+
+## React Native Mobile App
+
+| Project Name   | Repo | Site |
+| --------| ------- | ------- |
+| **Tester** | [Link](https://github.com/tltommu/Tester) | N/A 
+
+## Game Projects
+| Project Name   | Repo | Site |
+| --------| ------- | ------- |
+| **22-min-game** | [Link](https://github.com/tltommu/22-min-game) | N/A 
+| **Game** | [Link](https://github.com/tltommu/Game) | N/A 
 
 # Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
