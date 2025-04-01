@@ -41,6 +41,8 @@ A quick and simple grouping of my repos for easier scan through
 |**Demo** | [Link](https://github.com/tltommu/Demo)| N/A 
 |**FruitAPI** |[Link](https://github.com/tltommu/FruitAPI) | [Link](https://fruitapi2.azurewebsites.net/swagger) 
 |**BubberBreakfast** (freecodecamp lesson for me to learn basic of C# and HTTP requests) |[Link](https://github.com/tltommu/BubberBreakfast) | N/A
+|**CourseApp2.0** (freecodecamp lesson for me to learn basic of C# and MVC structure of .NET) |[Link](https://github.com/tltommu/CourseApp2.0/) | N/A
+
 
 ## Machine Learning Projects & Kaggle Competitions
 | Project Name   | Repo | Site |
