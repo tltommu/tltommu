@@ -43,6 +43,13 @@ A quick and simple grouping of my repos for easier scan through
 |**BubberBreakfast** (freecodecamp lesson for me to learn basic of C# and HTTP requests) |[Link](https://github.com/tltommu/BubberBreakfast) | N/A
 |**CourseApp2.0** (freecodecamp lesson for me to learn basic of C# and MVC structure of .NET) |[Link](https://github.com/tltommu/CourseApp2.0/) | [Link](https://courseapp2020250402024208.azurewebsites.net/)
 
+## Angular Projects
+
+| Project Name   | Repo | Site |
+| --------| ------- | ------- |
+|**apprenticeship_project** (Basic form app built with angualr and configured with emailjs) | [Link](https://github.com/tltommu/apprenticeship_project)| [N/A ](https://apprenticeship-project.vercel.app/)
+
+
 
 ## Machine Learning Projects & Kaggle Competitions
 | Project Name   | Repo | Site |
