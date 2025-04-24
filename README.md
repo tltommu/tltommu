@@ -47,7 +47,7 @@ A quick and simple grouping of my repos for easier scan through
 
 | Project Name   | Repo | Site | description |
 | --------| ------- | ------- | ----|
-|**apprenticeship_project**  | [Link](https://github.com/tltommu/apprenticeship_project)| [N/A ](https://apprenticeship-project.vercel.app/) | Basic form app built with angular and configured with emailjs
+|**apprenticeship_project**  | [Link](https://github.com/tltommu/apprenticeship_project)| [Link](https://apprenticeship-project.vercel.app/) | Basic form app built with angular and configured with emailjs
 
 
 
