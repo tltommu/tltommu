@@ -70,6 +70,12 @@ A quick and simple grouping of my repos for easier scan through
 | **22-min-game** | [Link](https://github.com/tltommu/22-min-game) | N/A  | /
 | **Game** | [Link](https://github.com/tltommu/Game) | N/A  | /
 
+## Others
+| Project Name   | Repo | Site | description |
+| --------| ------- | ------- | ------- |
+| **15_min** | [Link](https://github.com/tltommu/15min_lesson) | [Kaggle Notebook](https://www.kaggle.com/code/tltommu/15min-lesson)  | A 15 min_lesson to introduce Variables, Constant and data types
+
+
 # Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 ## Programming Language
