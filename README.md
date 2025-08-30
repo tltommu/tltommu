@@ -38,7 +38,7 @@ A quick and simple grouping of my repos for easier scan through
 
 | Project Name   | Repo | Site | description |
 | --------| ------- | ------- | -------|
-|**Demo** | [Link](https://github.com/tltommu/Demo)| N/A | /
+|**Demo** | [Link](https://github.com/tltommu/Demo)| N/A | my freelance project for Golden Forest Jewelry ltd
 |**FruitAPI** |[Link](https://github.com/tltommu/FruitAPI) | [Link](https://fruitapi2.azurewebsites.net/swagger) | /
 |**BubberBreakfast**  |[Link](https://github.com/tltommu/BubberBreakfast) | N/A | freecodecamp lesson for me to learn basic of C# and HTTP requests
 |**CourseApp2.0** |[Link](https://github.com/tltommu/CourseApp2.0/) | [Link](https://courseapp2020250402024208.azurewebsites.net/) | freecodecamp lesson for me to learn basic of C# and MVC structure of .NET
@@ -47,7 +47,7 @@ A quick and simple grouping of my repos for easier scan through
 
 | Project Name   | Repo | Site | description |
 | --------| ------- | ------- | ----|
-|**apprenticeship_project**  | [Link](https://github.com/tltommu/apprenticeship_project)| [Link](https://apprenticeship-project.vercel.app/) | Basic form app built with angular and configured with emailjs
+|**apprenticeship_project**  | [Link](https://github.com/tltommu/apprenticeship_project)| [Link](https://apprenticeship-project.vercel.app/) | Basic form app built with angular and configured with emailjs, tested with Karma and Playwright
 
 
 
@@ -62,18 +62,18 @@ A quick and simple grouping of my repos for easier scan through
 
 | Project Name   | Repo | Site | description |
 | --------| ------- | ------- | ------- |
-| **Tester** | [Link](https://github.com/tltommu/Tester) | N/A  | /
+| **Tester** | [Link](https://github.com/tltommu/Tester) | N/A  | A react-native mobile app that can stream videos.
 
 ## Game Projects
 | Project Name   | Repo | Site | description |
 | --------| ------- | ------- | ------- |
-| **22-min-game** | [Link](https://github.com/tltommu/22-min-game) | N/A  | /
-| **Game** | [Link](https://github.com/tltommu/Game) | N/A  | /
+| **22-min-game** | [Link](https://github.com/tltommu/22-min-game) | N/A  | Project done by following Godot tutorial on youtube (2d platformer game)
+| **Game** | [Link](https://github.com/tltommu/Game) | N/A  | A more detailed version of 22-min-game, also done by following tutorial on youtube
 
 ## Others
 | Project Name   | Repo | Site | description |
 | --------| ------- | ------- | ------- |
-| **15_min** | [Link](https://github.com/tltommu/15min_lesson) | [Kaggle Notebook](https://www.kaggle.com/code/tltommu/15min-lesson)  | A 15 min_lesson to introduce Variables, Constant and data types
+| **15_min_lesson** | [Link](https://github.com/tltommu/15min_lesson) | [Kaggle Notebook](https://www.kaggle.com/code/tltommu/15min-lesson)  | A 15 min_lesson to introduce Variables, Constant and data types for my interview at [Nottingham College](https://www.nottinghamcollege.ac.uk/) (They ghosted me)
 
 
 # Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
