@@ -19,6 +19,7 @@
 - I am currently on a self-learning path with aspirations of becoming a software engineer.
 - I have stumbled upon a several areas of software engineer, ranging from web developer to data analyst.
 - I am now Microsoft Certified as an [Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/tommylam-7630/credentials/3665946c5028ef01)
+- Currently learning to build a Chatbot with Flask and OpenAI on [CodeSignal Learn](https://codesignal.com/) , on a 20 days streak of learning on the platform.
 
 # Repo Guide (Sadly there isn't any file system to group my repos)
 A quick and simple grouping of my repos for easier scan through 
