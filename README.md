@@ -27,21 +27,21 @@ A quick and simple grouping of my repos for easier scan through
 
 | Project Name   | Repo | Site | description |
 | --------| ------- | ------- | -------|
-|**Refine_Dashboard** | **[Link](https://github.com/tltommu/refine_Dashboard)** | [Link](https://refine-dashboard-drab.vercel.app) | /
+|**Refine_Dashboard** | **[Link](https://github.com/tltommu/refine_Dashboard)** | [Link](https://refine-dashboard-drab.vercel.app) | A kanban dashboard powered by refine, with real time-metrics table.
 |**Another-3Dfolio**| [Link](https://github.com/tltommu/Another-3Dfolio) | [Link](https://another-3-dfolio.vercel.app/) | My current portfolio that I update from time to time
 |**Personal-Web**| [Link](https://github.com/tltommu/Personal-web) | [Link](https://thankful-bay-095d2a003.3.azurestaticapps.net) | My first ever website
 |**my-website** | [Link](https://github.com/tltommu/my-website) | [Link](my-website-eight-rho.vercel.app) | a docusaurus web generator
-|**CraftCMSTest**| [Link](https://github.com/tltommu/CraftCMSTest) | [Link](https://craft-cms-test.vercel.app/) | /
-|**CRUD-App**| [Link](https://github.com/tltommu/CRUD-App) |[Link](https://yellow-sky-094200410.4.azurestaticapps.net/) | /
+|**CraftCMSTest**| [Link](https://github.com/tltommu/CraftCMSTest) | [Link](https://craft-cms-test.vercel.app/) | A simple webpage that introduced me to CraftCMS
+|**CRUD-App**| [Link](https://github.com/tltommu/CRUD-App) |[Link](https://yellow-sky-094200410.4.azurestaticapps.net/) | Simplest CRUD app ever made.
 
 ## C#/ Backend Projects
 
 | Project Name   | Repo | Site | description |
 | --------| ------- | ------- | -------|
 |**Demo** | [Link](https://github.com/tltommu/Demo)| N/A | my freelance project for Golden Forest Jewelry ltd
-|**FruitAPI** |[Link](https://github.com/tltommu/FruitAPI) | [Link](https://fruitapi2.azurewebsites.net/swagger) | /
+|**FruitAPI** |[Link](https://github.com/tltommu/FruitAPI) | [Link](https://fruitapi2.azurewebsites.net/swagger) | FruitAPI starter that teaches me REST APIs
 |**BubberBreakfast**  |[Link](https://github.com/tltommu/BubberBreakfast) | N/A | freecodecamp lesson for me to learn basic of C# and HTTP requests
-|**CourseApp2.0** |[Link](https://github.com/tltommu/CourseApp2.0/) | [Link](https://courseapp2020250402024208.azurewebsites.net/) | freecodecamp lesson for me to learn basic of C# and MVC structure of .NET
+|**CourseApp2.0** |[Link](https://github.com/tltommu/CourseApp2.0/) | [Link](https://courseapp2020250402024208.azurewebsites.net/) | freecodecamp lesson for me to learn basic of C# and MVC structure of .NET, integrated with Google Oauth2.0 and Azure SQL Server database
 
 ## Angular Project
 
