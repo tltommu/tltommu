@@ -22,9 +22,9 @@ I'm a self-taught software developer focused on building modern web applications
 I enjoy creating user-focused interfaces and deploying full-stack applications using Azure and Vercel.
 
 Highlights:
-• Microsoft Certified Azure AI Engineer Associate
-• Experience building dashboards, APIs, and full-stack web apps
-• Active learner currently building an AI chatbot using Flask and OpenAI
+- Microsoft Certified Azure AI Engineer Associate
+- Experience building dashboards, APIs, and full-stack web apps
+- Active learner currently building an AI chatbot using Flask and OpenAI
 
 I'm currently seeking opportunities as a Junior Software Engineer or Frontend Developer.
 
