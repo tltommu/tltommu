@@ -26,7 +26,7 @@ Highlights:
 - Experience building dashboards, APIs, and full-stack web apps
 - Active learner currently building an AI chatbot using Flask and OpenAI
 
-I'm currently seeking opportunities as a Junior Software Engineer or Frontend Developer.
+I'm currently seeking opportunities as a Junior Software Engineer (Frontend or ML Engineer).
 
 # Repo Guide (Sadly there isn't any file system to group my repos)
 A quick and simple grouping of my repos for easier scan through 
