@@ -65,6 +65,7 @@ A quick and simple grouping of my repos for easier scan through
 |**Kaggle Competition: NeurIPS - Ariel Data Challenge 2024** | [Link](https://github.com/tltommu/NeurIPS)| [Link](https://www.kaggle.com/competitions/ariel-data-challenge-2024) | /
 |**Deep Learning Course**| [Link](https://github.com/tltommu/Deep-learning-course) | N/A | /
 |**Kaggle Competition: Stanford Ribonanza RNA Folding**| [Link](https://github.com/tltommu/RNA-Starter) | [Link](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding) | /
+|**Project Eris : Distributed Signal Coherence Classification**| [Link](https://github.com/tltommu/Distributed-Signal-Coherence-Classification) | [Link](https://shipd.ai/quests/eris/challenges/jx73zeb49n0fkb54wy6shtnd5h822nth) | /
 
 ## React Native Mobile App
 
