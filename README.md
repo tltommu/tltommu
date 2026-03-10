@@ -22,7 +22,7 @@ I'm a self-taught software developer focused on building modern web applications
 I enjoy creating user-focused interfaces and deploying full-stack applications using Azure and Vercel.
 
 Highlights:
-- Microsoft Certified Azure AI Engineer Associate
+- [Microsoft Certified Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/TommyLam-7630/3665946C5028EF01?sharingId=9EDE8E02B9EED9E8)
 - Experience building dashboards, APIs, and full-stack web apps
 - Active learner currently building an AI chatbot using Flask and OpenAI
 
@@ -125,12 +125,13 @@ A quick and simple grouping of my repos for easier scan through
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 
 ## Documenting:
- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 	![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 	![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 # GitHub Stats (This updates every 4 hours) :
 ![tltommu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tltommu&show_icons=true&theme=transparent)
 ![Other Stats:](https://github-readme-streak-stats.herokuapp.com/?user=tltommu&theme=radical&hide_border=false)<br/>
 ![Most common Language:](https://github-readme-stats.vercel.app/api/top-langs/?username=tltommu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tltommu&theme=discord&no-frame=false&no-bg=false&margin-w=4)
