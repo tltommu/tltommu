@@ -66,6 +66,7 @@ A quick and simple grouping of my repos for easier scan through
 |**Deep Learning Course**| [Link](https://github.com/tltommu/Deep-learning-course) | N/A | /
 |**Kaggle Competition: Stanford Ribonanza RNA Folding**| [Link](https://github.com/tltommu/RNA-Starter) | [Link](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding) | /
 |**Project Eris : Distributed Signal Coherence Classification**| [Link](https://github.com/tltommu/Distributed-Signal-Coherence-Classification) | [Link](https://shipd.ai/quests/eris/challenges/jx73zeb49n0fkb54wy6shtnd5h822nth) | /
+| Google DeepMind Measuring Progress Toward AGI - Cognitive Abilities  | [Repo](https://github.com/tltommu/Measuring-Progress-Toward-AGI---Cognitive-Abilities_Biologic_Benchmark) | [Site](https://www.kaggle.com/competitions/kaggle-measuring-agi) | A binary benchmark for detecting logical consistency in biological interaction systems |
 
 ## React Native Mobile App
 
